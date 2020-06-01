@@ -1,0 +1,48 @@
+body 
+.contents {
+  overflow: hidden;
+}
+
+.contents a {
+  float: left;
+  padding: 10px 14px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.contents a:hover {
+}
+
+.audio {
+  overflow: hidden;
+}
+
+.audio a {
+  float: left;
+  padding: 10px 14px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+
+.video {
+  overflow: hidden;
+ }
+
+.video a {
+  float: left;
+  padding: 10px 14px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.marks {
+  overflow: hidden;
+}
+
+.marks a {
+  float: left;
+  padding: 10px 14px;
+  text-decoration: none;
+  font-size: 19px;
+}
